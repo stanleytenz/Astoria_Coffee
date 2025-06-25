@@ -1,4 +1,4 @@
-# Judul Project
+# Astoria Sales Analytics
 
 ## Repository Outline
 Project ini terdiri dari:
