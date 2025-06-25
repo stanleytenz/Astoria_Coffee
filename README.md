@@ -24,5 +24,7 @@ project ini menggunakan Bahasa python. Library yang digunakan adalah pandas, num
 
 ## Reference
 link dataset: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/data
-link Tableau: [https://public.tableau.com/views/milestone_17453580275920/AstoriaSalesAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/stanley.armando.austen/viz/AstoriaSalesAnalytics/AstoriaSalesAnalytics?publish=yes)
+
+link Tableau: 
+[https://public.tableau.com/views/milestone_17453580275920/AstoriaSalesAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/stanley.armando.austen/viz/AstoriaSalesAnalytics/AstoriaSalesAnalytics?publish=yes)
 ---
